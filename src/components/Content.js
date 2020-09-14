@@ -20,7 +20,7 @@ const About = () => (
     <SectionHeader className="section-header">About</SectionHeader>
     <BodyP>
       <Emoji text=":wave:" />
-       Hi! I'm Aditya Dhillon, an <strong>agile</strong> and multi-faceted <strong>customer-centric professional.</strong> I've handled large volume flagship portfolios across industries in <strong>India and abroad,</strong> leading teams of over <strong>2500 people</strong> and budgets of over <strong>$50million.</strong>
+       Hi! I'm Aditya Dhillon, an <strong>agile</strong> and <strong>multi-faceted</strong> <strong>customer-centric professional.</strong> I've handled large volume flagship portfolios across industries in <strong>India and abroad,</strong> leading teams of over <strong>2500 people</strong> and budgets of over <strong>$50million.</strong>
     </BodyP>
     <BodyP>
       When I'm not <strong>working out</strong> to electronic music, you can find me going on <strong>adventures with my son,</strong> or in the sun, <strong>reading a book.</strong> 
@@ -133,7 +133,7 @@ const Contact = () => (
       <Link href="https://www.instagram.com/aditya_dhillon13/">
         DM me on Instagram
       </Link>{" "}
-      or get in touch on<Link href="https://www.linkedin.com/in/aditya-dhillon-52b85887/"> LinkedIn!</Link>.
+      or get in touch on <Link href="https://www.linkedin.com/in/aditya-dhillon-52b85887/">LinkedIn!</Link>.
     </BodyP>
   </Section>
 );

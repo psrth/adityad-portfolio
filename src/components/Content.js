@@ -23,8 +23,7 @@ const About = () => (
       Hi! I'm Aditya Dhillon, an <strong>agile</strong> and multi-faceted <strong>customer-centric professional.</strong> I've handled large volume flagship portfolios across industries in <strong>India and abroad,</strong> leading teams of over <strong>2500 people</strong> and budgets of over <strong>$50million.</strong>
     </BodyP>
     <BodyP>
-      <Emoji text=":wave:" />
-      Hi! I'm Aditya Dhillon, an <strong>agile</strong> and multi-faceted <strong>customer-centric professional.</strong> I've handled large volume flagship portfolios across industries in <strong>India and abroad,</strong> leading teams of over <strong>2500 people</strong> and budgets of over <strong>$50million.</strong>
+      When I'm not <strong>working out</strong> to electronic music, you can find me going on <strong>adventures with my son,</strong> or in the sun, reading a book. 
     </BodyP>
   </Section>
 );
@@ -120,15 +119,7 @@ const Skills = () => (
     </BodyP>
 
     <BodyP>
-      Along with Node and React, I have also used <strong>Ruby on Rails</strong>
-      , <strong>Golang</strong>, and <strong>Angular</strong> in previous
-      projects.
-    </BodyP>
-
-    <BodyP>
-      I like writing small <strong>Python</strong> or{" "}
-      <strong>shell scripts</strong> which automate tasks like splitting PDFs,
-      checking websites for updates and compiling stylesheets.
+      I have effective <strong>interpersonal skills</strong> as well — from team building and customer service to public speaking and training/coaching.
     </BodyP>
   </Section>
 );
@@ -137,12 +128,12 @@ const Contact = () => (
   <Section id="contact">
     <SectionHeader className="section-header">Contact</SectionHeader>
     <BodyP>
-      Feel free to email me at <Link href="mailto:mail@angad.dev">mail[at]angad[dot]dev</Link>.
+      Feel free to <Link href="mailto:aditya.dhillon13@gmail.com">email me</Link>.
       You could also{" "}
       <Link href="https://twitter.com/dotangad">
-        tweet
+        DM me on Instagram
       </Link>{" "}
-      to me or <Link href="https://t.me/dotangad">text me on Telegram</Link>.
+      or get in touch on<Link href="https://t.me/dotangad"> LinkedIn!</Link>.
     </BodyP>
   </Section>
 );
@@ -158,7 +149,7 @@ const Footer = () => (
     }}
   >
     <ThemeToggle />
-    <div>&copy; Angad Singh 2018</div>
+    <div>&copy; Aditya Dhillon, 2020</div>
     <div>
       Source available{" "}
       <Link

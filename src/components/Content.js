@@ -20,10 +20,10 @@ const About = () => (
     <SectionHeader className="section-header">About</SectionHeader>
     <BodyP>
       <Emoji text=":wave:" />
-      Hi! I'm Aditya Dhillon, an <strong>agile</strong> and multi-faceted <strong>customer-centric professional.</strong> I've handled large volume flagship portfolios across industries in <strong>India and abroad,</strong> leading teams of over <strong>2500 people</strong> and budgets of over <strong>$50million.</strong>
+       Hi! I'm Aditya Dhillon, an <strong>agile</strong> and multi-faceted <strong>customer-centric professional.</strong> I've handled large volume flagship portfolios across industries in <strong>India and abroad,</strong> leading teams of over <strong>2500 people</strong> and budgets of over <strong>$50million.</strong>
     </BodyP>
     <BodyP>
-      When I'm not <strong>working out</strong> to electronic music, you can find me going on <strong>adventures with my son,</strong> or in the sun, reading a book. 
+      When I'm not <strong>working out</strong> to electronic music, you can find me going on <strong>adventures with my son,</strong> or in the sun, <strong>reading a book.</strong> 
     </BodyP>
   </Section>
 );

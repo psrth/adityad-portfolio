@@ -20,7 +20,7 @@ const About = () => (
     <SectionHeader className="section-header">About</SectionHeader>
     <BodyP>
       <Emoji text=":wave:" />
-       Hi! I'm Aditya Dhillon, an <strong>agile</strong> and <strong>multi-faceted</strong> <strong>customer-centric professional.</strong> I've handled large volume flagship portfolios across industries in <strong>India and abroad,</strong> leading teams of over <strong>2500 people</strong> and budgets of over <strong>$50million.</strong>
+       Hi! I'm Aditya Dhillon, an <strong>agile</strong> and <strong>multifaceted</strong> <strong>customer-centric professional.</strong> I've handled large volume flagship portfolios across industries in <strong>India and abroad,</strong> leading teams of over <strong>2500 people</strong> and budgets of over <strong>$50million.</strong>
     </BodyP>
     <BodyP>
       When I'm not <strong>working out</strong> to electronic music, you can find me going on <strong>adventures with my son,</strong> or in the sun, <strong>reading a book.</strong> 
@@ -53,7 +53,7 @@ const Education = () => (
         <Link href="https://www.sarva.com/">
           Sarva
         </Link>{" "}
-        where I handled the day-to-day operations from October 2018 till November 2019. My role involved overseeing lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br></br><br></br>
+        , where I handled the day-to-day operations of the company. My role involved designing operation strategies for the platform, collaborating with the tech development team, communicating policies to our employees, and assisting the human resources department with building core teams.<br></br><br></br>
       </BodyP>
     </div>
     <div>
@@ -62,11 +62,11 @@ const Education = () => (
       </SchoolName>
       <SchoolDesc className="schooldesc">Talwalkars better value fitness ltd.</SchoolDesc>
       <BodyP>
-        I was the Head of Business Operations at{" "}
+        As the Head of Business Operations at{" "}
         <Link href="http://www.talwalkars.net/">
           Talwalkars
         </Link>{" "}
-        where I did cool COO work. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br></br><br></br>
+        , I ensured that all systems operated smoothly, aligned with our quality standards. I maximized the efficiency of all business procedures, and monitored the financial data and recommended solutions to improve our profitability.<br></br><br></br>
       </BodyP>
     </div>
     <div>
@@ -76,10 +76,10 @@ const Education = () => (
       <SchoolDesc className="schooldesc">fitness first india ltd.</SchoolDesc>
       <BodyP>
         I was the Director of Operations at{" "}
-        <Link href="http://www.talwalkars.net/">
+        <Link href="https://www.fitnessfirst.net.in/">
           Fitness First
         </Link>{" "}
-        where I did cool COO work. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br></br><br></br>
+        where I oversaw the organization’s daily business activities. I was responsible for managing its resources, developing and implementing our operational plan and ensuring that procedures were carried out smoothly. Additionally, I regularly evaluated organizational efficiency and made necessary changes to maximize staff productivity. <br></br><br></br>
       </BodyP>
     </div>
     <div>
@@ -89,10 +89,10 @@ const Education = () => (
       <SchoolDesc className="schooldesc">Equinox Fitness</SchoolDesc>
       <BodyP>
         I was the Director of Operations at{" "}
-        <Link href="http://www.talwalkars.net/">
+        <Link href="https://www.equinox.com/">
           Equinox Fitness
         </Link>{" "}
-        where I did cool COO work. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br></br><br></br>
+        where I oversaw the organization’s daily business activities. I was responsible for managing its resources, developing and implementing our operational plan and ensuring that procedures were carried out smoothly. Additionally, I regularly evaluated organizational efficiency and made necessary changes to maximize staff productivity.<br></br><br></br>
       </BodyP>
     </div>
     <div>
@@ -102,10 +102,10 @@ const Education = () => (
       <SchoolDesc className="schooldesc">Midnight Cravings Beyond control</SchoolDesc>
       <BodyP>
         I was the Owner of{" "}
-        <Link href="http://www.talwalkars.net/">
-        Midnight Cravings Beyond control
+        <Link href="http://mcbcfoods.com/">
+        Midnight Cravings Beyond Control.
         </Link>{" "}
-        where I did cool COO work. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br></br><br></br>
+        I started the restaurant as an outlet to provide delicious and mouth-watering to customers, all day and all night long. Today, my vision of food prepared with care, technique and expertise, stands tall — and the MCBC food quality guarantees customers a healthy, wholesome and flavoursome food trip.<br></br><br></br>
       </BodyP>
     </div>
   </Section>

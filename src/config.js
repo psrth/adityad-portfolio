@@ -2,7 +2,7 @@ export default {
   baseColor: "#440CB5",
   social: [
     {
-      fa: "fab fa-github",
+      fa: "fab fa-instagram",
       link: "https://github.com/dotangad"
     },
     {

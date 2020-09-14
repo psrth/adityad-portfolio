@@ -23,8 +23,12 @@ const About = () => (
        Hi! I'm Aditya Dhillon, an <strong>agile</strong> and <strong>multifaceted</strong> <strong>customer-centric professional.</strong> I've handled large volume flagship portfolios across industries in <strong>India and abroad,</strong> leading teams of over <strong>2500 people</strong> and budgets of over <strong>$50million.</strong>
     </BodyP>
     <BodyP>
-      When I'm not <strong>working out</strong> to electronic music, you can find me going on <strong>adventures with my son,</strong> or in the sun, <strong>reading a book.</strong> 
+      When I'm not <strong>working out</strong> to electronic music, you can find me going on <strong>adventures with my son,</strong> on a <strong>high altitude trek,</strong> playing <strong>golf,</strong> or in the sun, <strong>reading a book.</strong> 
     </BodyP>
+    <BodyP>Click {" "}
+        <strong><Link href="https://drive.google.com/file/d/1SDD7AziXC97XrpLmQkrBrKtN-XG4iL-5/view?usp=sharing">
+          here
+        </Link></strong>{" "}to get my resume.</BodyP> 
   </Section>
 );
 
@@ -47,65 +51,73 @@ const Education = () => (
       <SchoolName className="schoolname">
         Chief Operating Officer
       </SchoolName>
-      <SchoolDesc className="schooldesc">SARVA — Yoga, Mindfulness, & Beyond</SchoolDesc>
+      <SchoolDesc className="schooldesc"><strong>SARVA — Yoga, Mindfulness, & Beyond</strong></SchoolDesc>
+      <SchoolDesc className="schooldesc">October 2018 - July 2019</SchoolDesc>
       <BodyP>
-        I was the Chief Operating Officer at{" "}
+        I was the COO at{" "}
         <Link href="https://www.sarva.com/">
           Sarva,
         </Link>{" "}
-         where I handled the day-to-day operations of the company. My role involved designing operation strategies for the platform, collaborating with the tech development team, communicating policies to our employees, and assisting the human resources department with building core teams.<br></br><br></br>
+        Asia’s largest yoga chain, which started with 3 centres and grew to over 90 in the 3+ years I worked with them. My principal role was to evaluate, correct, strengthen and grow to help acquire Series A Funding for domestic and international expansion. I improved metrics for institutional funding round with Fireside Ventures, focused on clean up of business, dissolution of unviable asset classes and pivoting Sarva to align with future strategic vision - including a complete brand overhaul.<br></br><br></br>
       </BodyP>
+      
+
     </div>
     <div>
       <SchoolName className="schoolname">
         Head of Business Operations
       </SchoolName>
-      <SchoolDesc className="schooldesc">Talwalkars better value fitness ltd.</SchoolDesc>
+      <SchoolDesc className="schooldesc"><strong>Talwalkars better value fitness ltd.</strong></SchoolDesc>
+      <SchoolDesc className="schooldesc">April 2015 - October 2018</SchoolDesc>
       <BodyP>
-        As the Head of Business Operations at{" "}
+        At{" "}
         <Link href="http://www.talwalkars.net/">
           Talwalkars,
         </Link>{" "}
-         I ensured that all systems operated smoothly, aligned with our quality standards. I maximized the efficiency of all business procedures, and monitored the financial data and recommended solutions to improve our profitability.<br></br><br></br>
-      </BodyP>
-    </div>
-    <div>
-      <SchoolName className="schoolname">
-        Director of Operations
-      </SchoolName>
-      <SchoolDesc className="schooldesc">fitness first india ltd.</SchoolDesc>
-      <BodyP>
-        I was the Director of Operations at{" "}
-        <Link href="https://www.fitnessfirst.net.in/">
-          Fitness First
-        </Link>{" "}
-        where I oversaw the organization’s daily business activities. I was responsible for managing its resources, developing and implementing our operational plan and ensuring that procedures were carried out smoothly. Additionally, I regularly evaluated organizational efficiency and made necessary changes to maximize staff productivity. <br></br><br></br>
-      </BodyP>
-    </div>
-    <div>
-      <SchoolName className="schoolname">
-        Director of Operations
-      </SchoolName>
-      <SchoolDesc className="schooldesc">Equinox Fitness</SchoolDesc>
-      <BodyP>
-        I was the Director of Operations at{" "}
-        <Link href="https://www.equinox.com/">
-          Equinox Fitness
-        </Link>{" "}
-        where I oversaw the organization’s daily business activities. I was responsible for managing its resources, developing and implementing our operational plan and ensuring that procedures were carried out smoothly. Additionally, I regularly evaluated organizational efficiency and made necessary changes to maximize staff productivity.<br></br><br></br>
+        India’s largest, and only, publicly listed company with Operations in over 40 cities Pan India with a market valuation of over $150 Million — I provided long term strategy, brought diversity of offering and improved profitability in existing business vertical. Helped with the acquisition of Sarva Yoga, InShape Fitness, Power World Gyms and a minority stake in Growfitter. YOY Results increased Revenue 13%, Operating Profit 20%, PAT increased 19%, People costs dropped from 16.36% to 15.66%, receivables reduced from 49 days to 40 days, and liquidated 10-12 clubs in challenge markets - annual loss turned into a one time sale income.<br></br><br></br>
       </BodyP>
     </div>
     <div>
       <SchoolName className="schoolname">
         Owner
       </SchoolName>
-      <SchoolDesc className="schooldesc">Midnight Cravings Beyond control</SchoolDesc>
+      <SchoolDesc className="schooldesc"><strong>Midnight Cravings Beyond control</strong></SchoolDesc>
+      <SchoolDesc className="schooldesc">Jan 2014 - July 2015</SchoolDesc>
       <BodyP>
         I was the Owner of{" "}
         <Link href="http://mcbcfoods.com/">
-        Midnight Cravings Beyond Control.
+        Midnight Cravings Beyond Control,
         </Link>{" "}
-        I started the restaurant as an outlet to provide delicious and mouth-watering to customers, all day and all night long. Today, my vision of food prepared with care, technique and expertise, stands tall — and the MCBC food quality guarantees customers a healthy, wholesome and flavoursome food trip.<br></br><br></br>
+        Gurgaon’s highest rated food delivery service catering to the large overnight working population due to the international nature of the city. A comprehensive offering of Indian, Chinese, Thai and Punjabi food catering to the North Indian Palette. I sold the business after operating it for 1.5 years at a significant profit due to relocation.  <br></br><br></br>
+      </BodyP>
+    </div>
+    <div>
+      <SchoolName className="schoolname">
+        Director of Operations Pan—India
+      </SchoolName>
+      <SchoolDesc className="schooldesc"><strong>fitness first india ltd.</strong></SchoolDesc>
+      <SchoolDesc className="schooldesc">Jan 2013 - Jan 2014</SchoolDesc>
+      <BodyP>
+        At{" "}
+        <Link href="https://www.fitnessfirst.net.in/">
+          Fitness First,
+        </Link>{" "}
+        my responsibilities included all aspects of operations and future growth, mitigation of risk, legal compliance, industry outreach, as well as strategic planning, sourcing and alignment of resources for two of the biggest new club launches in India. Some of my key acheivements were opening two of the most profitable Fitness First clubs in India, handling all aspects of pre-opening and launch of presales, and complete digitization of records and closure of two clubs with asset mobilization, deposit reconciliations and all regulatory compliances.<br></br><br></br>
+      </BodyP>
+
+    </div>
+    <div>
+      <SchoolName className="schoolname">
+        General Manager Operations
+      </SchoolName>
+      <SchoolDesc className="schooldesc"><strong>Equinox Fitness</strong></SchoolDesc>
+      <SchoolDesc className="schooldesc">Dec 2009 - Aug 2012</SchoolDesc>
+      <BodyP>
+        At{" "}
+        <Link href="https://www.equinox.com/">
+          Equinox Fitness,
+        </Link>{" "}
+        the most established and upscale provider of Fitness Clubs in the US with over 40 locations pan USA and Canada, I was responsible for managing its resources, developing and implementing our operational plan and ensuring that procedures were carried out smoothly. Additionally, I regularly evaluated organizational efficiency and made necessary changes to maximize staff productivity.<br></br><br></br>
       </BodyP>
     </div>
   </Section>

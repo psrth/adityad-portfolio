@@ -3,23 +3,23 @@ export default {
   social: [
     {
       fa: "fab fa-instagram",
-      link: "https://github.com/dotangad"
+      link: "https://www.instagram.com/aditya_dhillon13/"
     },
     {
       fa: "fab fa-twitter",
-      link: "https://twitter.com/dotangad"
+      link: "https://twitter.com/"
     },
     {
       fa: "fab fa-linkedin",
-      link: "https://linkedin.com/in/dotangad"
+      link: "https://www.linkedin.com/in/aditya-dhillon-52b85887/"
     },
     {
       fa: "fas fa-envelope",
-      link: "mailto:mail@angad.dev"
+      link: "mailto:aditya.dhillon13@gmail.com"
     },
     {
       fa: "fab fa-telegram",
-      link: "https://t.me/dotangad"
+      link: "https://t.me/"
     }
   ],
   navItems: [

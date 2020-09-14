@@ -130,10 +130,10 @@ const Contact = () => (
     <BodyP>
       Feel free to <Link href="mailto:aditya.dhillon13@gmail.com">email me</Link>.
       You could also{" "}
-      <Link href="https://twitter.com/dotangad">
+      <Link href="https://www.instagram.com/aditya_dhillon13/">
         DM me on Instagram
       </Link>{" "}
-      or get in touch on<Link href="https://t.me/dotangad"> LinkedIn!</Link>.
+      or get in touch on<Link href="https://www.linkedin.com/in/aditya-dhillon-52b85887/"> LinkedIn!</Link>.
     </BodyP>
   </Section>
 );

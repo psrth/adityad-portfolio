@@ -1,8 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Aditya Dhillon — Portfolio
+a portfolio site made for Aditya Dhillon. compiled by Parth Sharma. source code by angad.dev
 
-## Available Scripts
+## Instructions for Install
 
-In the project directory, you can run:
+### `npm install`
+
+After installing node dependencies, in the project directory, you can run:
 
 ### `yarn start`
 

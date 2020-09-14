@@ -51,9 +51,9 @@ const Education = () => (
       <BodyP>
         I was the Chief Operating Officer at{" "}
         <Link href="https://www.sarva.com/">
-          Sarva
+          Sarva,
         </Link>{" "}
-        , where I handled the day-to-day operations of the company. My role involved designing operation strategies for the platform, collaborating with the tech development team, communicating policies to our employees, and assisting the human resources department with building core teams.<br></br><br></br>
+         where I handled the day-to-day operations of the company. My role involved designing operation strategies for the platform, collaborating with the tech development team, communicating policies to our employees, and assisting the human resources department with building core teams.<br></br><br></br>
       </BodyP>
     </div>
     <div>
@@ -64,9 +64,9 @@ const Education = () => (
       <BodyP>
         As the Head of Business Operations at{" "}
         <Link href="http://www.talwalkars.net/">
-          Talwalkars
+          Talwalkars,
         </Link>{" "}
-        , I ensured that all systems operated smoothly, aligned with our quality standards. I maximized the efficiency of all business procedures, and monitored the financial data and recommended solutions to improve our profitability.<br></br><br></br>
+         I ensured that all systems operated smoothly, aligned with our quality standards. I maximized the efficiency of all business procedures, and monitored the financial data and recommended solutions to improve our profitability.<br></br><br></br>
       </BodyP>
     </div>
     <div>

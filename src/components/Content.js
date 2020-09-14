@@ -53,7 +53,7 @@ const Education = () => (
         <Link href="https://www.sarva.com/">
           Sarva
         </Link>{" "}
-        where I did cool COO work. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br></br><br></br>
+        where I handled the day-to-day operations from October 2018 till November 2019. My role involved overseeing lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br></br><br></br>
       </BodyP>
     </div>
     <div>

@@ -22,6 +22,10 @@ const About = () => (
       <Emoji text=":wave:" />
       Hi! I'm Aditya Dhillon, an <strong>agile</strong> and multi-faceted <strong>customer-centric professional.</strong> I've handled large volume flagship portfolios across industries in <strong>India and abroad,</strong> leading teams of over <strong>2500 people</strong> and budgets of over <strong>$50million.</strong>
     </BodyP>
+    <BodyP>
+      <Emoji text=":wave:" />
+      Hi! I'm Aditya Dhillon, an <strong>agile</strong> and multi-faceted <strong>customer-centric professional.</strong> I've handled large volume flagship portfolios across industries in <strong>India and abroad,</strong> leading teams of over <strong>2500 people</strong> and budgets of over <strong>$50million.</strong>
+    </BodyP>
   </Section>
 );
 
@@ -50,26 +54,59 @@ const Education = () => (
         <Link href="https://www.sarva.com/">
           Sarva
         </Link>{" "}
-        where I did cool COO work. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        where I did cool COO work. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br></br><br></br>
       </BodyP>
     </div>
     <div>
       <SchoolName className="schoolname">
-        Delhi Public School, R.K. Puram
+        Head of Business Operations
       </SchoolName>
-      <SchoolDesc className="schooldesc">Class of '22</SchoolDesc>
+      <SchoolDesc className="schooldesc">Talwalkars better value fitness ltd.</SchoolDesc>
       <BodyP>
-        I am a high school junior at Delhi Public School, R.K. Puram studying Physics, Economics, Maths and Computer Science. I am an
-        active member of my school's computer club,{" "}
-        <Link href="https://exunclan.com">
-          Exun Clan
+        I was the Head of Business Operations at{" "}
+        <Link href="http://www.talwalkars.net/">
+          Talwalkars
         </Link>{" "}
-        where I build tools for internal use as well as applications which aid
-        the logistics and administration of our annual tech symposium.
+        where I did cool COO work. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br></br><br></br>
       </BodyP>
+    </div>
+    <div>
+      <SchoolName className="schoolname">
+        Director of Operations
+      </SchoolName>
+      <SchoolDesc className="schooldesc">fitness first india ltd.</SchoolDesc>
       <BodyP>
-        I've won 30+ high-school and college technology quizzes, design
-        competitions and hackathons.
+        I was the Director of Operations at{" "}
+        <Link href="http://www.talwalkars.net/">
+          Fitness First
+        </Link>{" "}
+        where I did cool COO work. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br></br><br></br>
+      </BodyP>
+    </div>
+    <div>
+      <SchoolName className="schoolname">
+        Director of Operations
+      </SchoolName>
+      <SchoolDesc className="schooldesc">Equinox Fitness</SchoolDesc>
+      <BodyP>
+        I was the Director of Operations at{" "}
+        <Link href="http://www.talwalkars.net/">
+          Equinox Fitness
+        </Link>{" "}
+        where I did cool COO work. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br></br><br></br>
+      </BodyP>
+    </div>
+    <div>
+      <SchoolName className="schoolname">
+        Owner
+      </SchoolName>
+      <SchoolDesc className="schooldesc">Midnight Cravings Beyond control</SchoolDesc>
+      <BodyP>
+        I was the Owner of{" "}
+        <Link href="http://www.talwalkars.net/">
+        Midnight Cravings Beyond control
+        </Link>{" "}
+        where I did cool COO work. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br></br><br></br>
       </BodyP>
     </div>
   </Section>
@@ -79,10 +116,7 @@ const Skills = () => (
   <Section id="skills">
     <SectionHeader className="section-header">Skills</SectionHeader>
     <BodyP>
-      I'm proficient in <strong>Node.js</strong>, <strong>Express.js</strong>,{" "}
-      <strong>React.js</strong>, and <strong>PHP</strong>. I can also use
-      vanilla JavaScript to create highly interactive user interfaces and
-      memorable experiences.
+      I have a strong industry knowledge of <strong>Fitness, Gyms and Wellbeing</strong>, as well as several years of experience in the <strong>Hospitality Industry.</strong> I consider project management, operations management, and strategic planning as some of my strongest skills.
     </BodyP>
 
     <BodyP>

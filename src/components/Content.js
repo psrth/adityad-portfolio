@@ -20,12 +20,7 @@ const About = () => (
     <SectionHeader className="section-header">About</SectionHeader>
     <BodyP>
       <Emoji text=":wave:" />
-      Hi! I'm Angad, a junior at{" "}
-      <Link href="https://dpsrkp.net">
-        Delhi Public School, R.K. Puram
-      </Link>{" "} and developer at <Link href="https://exunclan.com">Exun Clan</Link>. I am passionate about solving problems with technology and building
-      products people love. Some of my other interests include Tetris, public
-      policy and sociology.
+      Hi! I'm Aditya Dhillon, an <strong>agile</strong> and multi-faceted <strong>customer-centric professional.</strong> I've handled large volume flagship portfolios across industries in <strong>India and abroad,</strong> leading teams of over <strong>2500 people</strong> and budgets of over <strong>$50million.</strong>
     </BodyP>
   </Section>
 );
@@ -43,25 +38,19 @@ const SchoolDesc = styled.div`
 `;
 
 const Education = () => (
-  <Section id="education">
-    <SectionHeader className="section-header">Education</SectionHeader>
+  <Section id="experience">
+    <SectionHeader className="section-header">Experience</SectionHeader>
     <div>
       <SchoolName className="schoolname">
-        Delhi Public School, R.K. Puram
+        Chief Operating Officer
       </SchoolName>
-      <SchoolDesc className="schooldesc">Class of '22</SchoolDesc>
+      <SchoolDesc className="schooldesc">SARVA — Yoga, Mindfulness, & Beyond</SchoolDesc>
       <BodyP>
-        I am a high school junior at Delhi Public School, R.K. Puram studying Physics, Economics, Maths and Computer Science. I am an
-        active member of my school's computer club,{" "}
-        <Link href="https://exunclan.com">
-          Exun Clan
+        I was the Chief Operating Officer at{" "}
+        <Link href="https://www.sarva.com/">
+          Sarva
         </Link>{" "}
-        where I build tools for internal use as well as applications which aid
-        the logistics and administration of our annual tech symposium.
-      </BodyP>
-      <BodyP>
-        I've won 30+ high-school and college technology quizzes, design
-        competitions and hackathons.
+        where I did cool COO work. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
       </BodyP>
     </div>
     <div>

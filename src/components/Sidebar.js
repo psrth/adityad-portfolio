@@ -74,7 +74,7 @@ export default () => (
   <Sidebar className="sidebar">
     <Intro className="intro">
       <AngadImg alt="Angad Singh" src={Angad} />
-      <Name>Reet Kapur</Name>
+      <Name>Aditya Dhillon</Name>
     </Intro>
 
     <Nav className="nav">

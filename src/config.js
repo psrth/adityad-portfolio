@@ -28,8 +28,8 @@ export default {
       id: "about"
     },
     {
-      display: "Education",
-      id: "education"
+      display: "Experience",
+      id: "experience"
     },
     {
       display: "Skills",
